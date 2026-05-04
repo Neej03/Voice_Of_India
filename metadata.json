@@ -1,0 +1,7 @@
+{
+  "name": "Voice Of India",
+  "description": "A visually stunning, animation-rich Indian language translation platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
